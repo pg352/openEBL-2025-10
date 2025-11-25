@@ -90,6 +90,33 @@ Will be added here.
 <img alt="Merged Layout" src="./merge/EBeam.png">
 
 Click on the following link to download the EBeam.oas merged layout file:
+
+## Measurement data
+https://qdot-nexus.phas.ubc.ca:25683/s/wKS48GJMTEAcLy7
+
+## SEM images of the fabricated designs
+
+Scanning electron microscope images of some of the devices from this fabrication run were taken, and are available in the "SEMs" folder, and shown here:
+
+
+![SEM image – 1x2 splitter](./SEMs/UL_011.jpg)
+
+![SEM image – 2x2 splitter](./SEMs/UL_012.jpg)
+
+![SEM image – 3x3 splitter](./SEMs/UL_007.jpg)
+
+![SEM image – subwavelength grating waveguides](./SEMs/UL_023.jpg)
+
+![SEM image – Bragg grating](./SEMs/UL_039.jpg)
+
+![SEM image – Bragg grating contra directional coupler](./SEMs/UL_034.jpg)
+
+
+![SEM image – lithgraphy test structure](./SEMs/UL_026.jpg)
+
+![SEM image – lithgraphy test structure](./SEMs/UL_027.jpg)
+
+
 <!-- start-link -->
 https://github.com/SiEPIC/openEBL-2025-10/actions/runs/18484091365/artifacts/4260752384
 <!-- end-link -->
